@@ -1,2 +1,2 @@
 member 1: Sanskar 
-member 2: Mahesh 
+member 2: Mahesh Member 3: Charlie 
