@@ -1,2 +1,3 @@
 [EDITED IN MAIN] First Line 
 [EDITED IN BRANCH] First Line 
+hello to world of git and GitHub 
